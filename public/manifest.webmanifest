@@ -1,0 +1,14 @@
+{
+  "name": "Vanishree's Year 12 IB DP1 Hub",
+  "short_name": "Year 12 Hub",
+  "description": "Vanishree's Year 12–13 IB Diploma study hub (Tanglin Trust School, Aug 2027 – May 2029): all 8 SL/HL apps, 3 HL + 3 SL planner, 45-point Core Matrix, and TOK / EE / CAS Core guide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#f6f8fc",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
